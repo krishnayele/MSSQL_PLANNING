@@ -14,3 +14,5 @@ list of few websites learn about sql and it will be updated as time pass by
 
 * [Stored Procedures Best Practices](https://www.codeproject.com/Articles/835129/Stored-Procedures-Best-Practices)
 * [Stored Procedure Interview Questions](https://www.complexsql.com/stored-procedure-interview-questions/)
+* [ Most useful SQL Server Queries for Professionals](https://www.complexsql.com/sql-server-queries/)
+
