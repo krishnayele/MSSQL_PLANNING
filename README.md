@@ -17,7 +17,7 @@ list of few websites learn about sql and it will be updated as time pass by
 * [Stored Procedure Interview Questions](https://www.complexsql.com/stored-procedure-interview-questions/)
 * [ Most useful SQL Server Queries for Professionals](https://www.complexsql.com/sql-server-queries/)
 
-### -----sql link to stdy--------
+### sql link to stdy
 * [inline-view-in-sql](https://www.wikitechy.com/tutorials/sql/inline-view-in-sql)
 * [inline-view](https://www.1keydata.com/sql/inline-view.html)
 * [CatalogSQLServer](http://www.java2s.com/Tutorial/SQLServer/CatalogSQLServer.htm)
@@ -25,15 +25,15 @@ list of few websites learn about sql and it will be updated as time pass by
 * [Important-queries-in-SQL-Server-every-developer-should-know]( http://www.codingfusion.com/Post/75-Important-queries-in-SQL-Server-every-developer-should-know)
 * [50-important-queries-in-sql-server]( https://www.c-sharpcorner.com/article/50-important-queries-in-sql-server/)
 * [uerying-SQL-Server-2012-Part-I#Distinct](https://www.codeproject.com/Articles/690340/Querying-SQL-Server-2012-Part-I#Distinct)
-* [sqlservertutorial]( http://www.sqlservertutorial.net/) ___main___ 
+* [sqlservertutorial]( http://www.sqlservertutorial.net/) __main__
 * [views/views?view=sql-server-2017](https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017) ___ main 2___
 --- 
- ### imp
+ ### Impoertant
 
 * [introduction-to-sql-servers-date-functions](https://www.essentialsql.com/introduction-to-sql-servers-date-functions/)
-* [unix-commands.html](http://gogates.blogspot.com/2012/04/unix-commands.html#23) ___ --unix main___
-* [sql-server]( https://www.mytecbits.com/category/microsoft/sql-server)___  ---- importanat___
-* [different-types-of-sql-keys](https://www.dotnettricks.com/learn/sqlserver/different-types-of-sql-keys)___  -main22___
+* [unix-commands.html](http://gogates.blogspot.com/2012/04/unix-commands.html#23) ___unix main___
+* [sql-server]( https://www.mytecbits.com/category/microsoft/sql-server) ___importanat___
+* [different-types-of-sql-keys](https://www.dotnettricks.com/learn/sqlserver/different-types-of-sql-keys) ___main22___
 
 ## Practice
 
