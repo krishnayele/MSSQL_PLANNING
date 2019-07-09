@@ -21,14 +21,14 @@ list of few websites learn about sql and it will be updated as time pass by
 * [inline-view-in-sql](https://www.wikitechy.com/tutorials/sql/inline-view-in-sql)
 * [inline-view](https://www.1keydata.com/sql/inline-view.html)
 * [CatalogSQLServer](http://www.java2s.com/Tutorial/SQLServer/CatalogSQLServer.htm)
-* [SQL-Server-tutorials]( https://www.lynda.com/SQL-Server-tutorials/Next-steps/513597/558167-4.html)__ today__
+* [SQL-Server-tutorials]( https://www.lynda.com/SQL-Server-tutorials/Next-steps/513597/558167-4.html) __today__
 * [Important-queries-in-SQL-Server-every-developer-should-know]( http://www.codingfusion.com/Post/75-Important-queries-in-SQL-Server-every-developer-should-know)
 * [50-important-queries-in-sql-server]( https://www.c-sharpcorner.com/article/50-important-queries-in-sql-server/)
 * [uerying-SQL-Server-2012-Part-I#Distinct](https://www.codeproject.com/Articles/690340/Querying-SQL-Server-2012-Part-I#Distinct)
 * [sqlservertutorial]( http://www.sqlservertutorial.net/) __main__
-* [views/views?view=sql-server-2017](https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017) ___ main 2___
+* [views/views?view=sql-server-2017](https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017)       ___main 2___
 --- 
- ### Impoertant
+ ### Important
 
 * [introduction-to-sql-servers-date-functions](https://www.essentialsql.com/introduction-to-sql-servers-date-functions/)
 * [unix-commands.html](http://gogates.blogspot.com/2012/04/unix-commands.html#23) ___unix main___
