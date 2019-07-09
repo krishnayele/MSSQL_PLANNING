@@ -26,7 +26,7 @@ list of few websites learn about sql and it will be updated as time pass by
 * [50-important-queries-in-sql-server]( https://www.c-sharpcorner.com/article/50-important-queries-in-sql-server/)
 * [uerying-SQL-Server-2012-Part-I#Distinct](https://www.codeproject.com/Articles/690340/Querying-SQL-Server-2012-Part-I#Distinct)
 * [sqlservertutorial]( http://www.sqlservertutorial.net/) __main__
-* [views/views?view=sql-server-2017](https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017)       ___main 2___
+* [view-sql-server-2017](https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017)       ___main 2___
 --- 
  ### Important
 
