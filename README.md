@@ -17,7 +17,7 @@ list of few websites learn about sql and it will be updated as time pass by
 * [Stored Procedure Interview Questions](https://www.complexsql.com/stored-procedure-interview-questions/)
 * [ Most useful SQL Server Queries for Professionals](https://www.complexsql.com/sql-server-queries/)
 
-###-----sql link to stdy--------
+### -----sql link to stdy--------
 * [inline-view-in-sql](https://www.wikitechy.com/tutorials/sql/inline-view-in-sql)
 * [inline-view](https://www.1keydata.com/sql/inline-view.html)
 * [CatalogSQLServer](http://www.java2s.com/Tutorial/SQLServer/CatalogSQLServer.htm)
@@ -28,7 +28,7 @@ list of few websites learn about sql and it will be updated as time pass by
 * [sqlservertutorial]( http://www.sqlservertutorial.net/)___       ------------main___ 
 * [views/views?view=sql-server-2017](https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-2017)___-------- main 2___
 --- 
- ###imp
+ ### imp
 
 * [introduction-to-sql-servers-date-functions](https://www.essentialsql.com/introduction-to-sql-servers-date-functions/)
 * [unix-commands.html](http://gogates.blogspot.com/2012/04/unix-commands.html#23) ___ --unix main___
